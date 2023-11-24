@@ -1,0 +1,3 @@
+C:/Users/12san/OneDrive/Documents/GitHub/CODING-DECODING/cmake-build-debug/CMakeFiles/CODING_DECODING.dir
+C:/Users/12san/OneDrive/Documents/GitHub/CODING-DECODING/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12san/OneDrive/Documents/GitHub/CODING-DECODING/cmake-build-debug/CMakeFiles/rebuild_cache.dir
