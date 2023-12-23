@@ -1,6 +1,5 @@
 //
 // Created by 12san on 02-12-2023.
-//
 #include<stdio.h>
 struct user_id{
     char name[30];
