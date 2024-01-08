@@ -9,7 +9,6 @@ void linearSearch(int arr[], int n, int target) {
     }
     printf("Element not found\n");
 }
-
 int main() {
     int arr[] = {1, 2, 3, 4, 5};
     int target = 3;
